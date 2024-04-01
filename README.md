@@ -1,4 +1,4 @@
-README
+
 Overview
 This project is a simple Spring Boot application that provides RESTful endpoints for managing customers. It allows you to perform CRUD (Create, Read, Update, Delete) operations on a customer entity stored in a database.
 
